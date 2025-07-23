@@ -14,14 +14,14 @@ val Cabin = FontFamily(
 )
 
 val Typography = Typography(
-    titleMedium = TextStyle(
+    displaySmall = TextStyle(
         fontFamily = Cabin,
         fontWeight = FontWeight.Bold,
         fontSize = 22.sp,
         lineHeight = 28.sp,
         letterSpacing = 0.sp
     ),
-    labelMedium = TextStyle(
+    bodyLarge = TextStyle(
         fontFamily = Cabin,
         fontWeight = FontWeight.Normal,
         fontSize = 11.sp,
